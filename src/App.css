@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+html::-webkit-scrollbar {
+  width: 0.8rem;
+}
+html::-webkit-scrollbar-thumb {
+  background-color:hsl(11, 60%, 50%) ;
+}
+html::-webkit-scrollbar-track {
+  background-color: white;
+}
+:root {
+
+  /* COLORS */
+  --Bright-Orange: #f60;
+  --light-background: hsl(0, 0%, 96%);
+  --light-on-background: hsl(0, 3%, 13%);
+  --light-on-background-variant: hsl(20, 3%, 19%);
+  --light-primary: hsl(11, 87%, 59%);
+  --light-primary-hover: hsl(11, 60%, 50%);
+  --light-primary-container: hsl(14, 57%, 95%);
+  --light-error: hsl(1, 73%, 42%);
+  --light-active-indicator: hsl(12, 58%, 88%);
+  --light-image-background: hsl(0, 0%, 70%);
+  --light-badge-btn: hsl(30, 58%, 88%);
+  --light-on-badge-btn: hsl(24, 7%, 14%);
+  --light-outline: hsl(10, 19%, 88%);
+  --light-input-outline: hsl(7, 7%, 73%);
+  --light-input-outline-hover: hsl(9, 3%, 52%);
+  --light-alpha-10: hsla(0, 0%, 0%, 0.1);
+  --light-alpha-20: hsla(0, 0%, 0%, 0.2);
+
+}
+body {
+  font-family: 'Instrument Serif', serif;
+  font-size: 18px;
+}
+.Failure {
+  color: red;
+  font-size: 40px;
+  text-align: center;
+  width: 1200px;
+}
+
+@media (max-width: 768px) {
+  .App {
+    min-height: 35rem;
+    overflow-x: hidden;
+    width: 768px;
+  }
+  .Failure {
+    color: red;
+    font-size: 40px;
+    text-align: center;
+    width: 768px;
+  }
+}
+
+@media (max-width: 428px) {
+  .App {
+    overflow-x: hidden;
+    width: 428px;
+  }
+  .Failure {
+    color: red;
+    font-size: 40px;
+    text-align: center;
+    width: 428px;
+  }
+}
+
+@media (max-width: 375px) {
+  .App {
+    overflow-x: hidden;
+    width: 375px;
+  }
+  .Failure {
+    color: red;
+    font-size: 40px;
+    text-align: center;
+    width: 375px;
+  }
+}
