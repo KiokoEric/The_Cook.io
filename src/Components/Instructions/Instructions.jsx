@@ -64,7 +64,7 @@ return (
                             {Item.strIngredient14 ? (<li>{Item.strIngredient14} : {Item.strMeasure14}</li>) : null}
                             {Item.strIngredient15 ? (<li>{Item.strIngredient15} : {Item.strMeasure15}</li>) : null}
                             {Item.strIngredient16 ? (<li>{Item.strIngredient16} : {Item.strMeasure16}</li>) : null}
-                        </ul>
+                        </ul> 
                     </div>
                     <h3>Instructions</h3>
                     <pre id='instructions' >
