@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Cook.io/static/css/main.c28f6a2e.css",
-    "main.js": "/Cook.io/static/js/main.9f1a6825.js",
-    "static/js/787.13aee4be.chunk.js": "/Cook.io/static/js/787.13aee4be.chunk.js",
-    "static/media/Nationalities_HomePage.jpg": "/Cook.io/static/media/Nationalities_HomePage.2bfadea6f838bc433682.jpg",
-    "static/media/RecipeIndex_HomePage.jpg": "/Cook.io/static/media/RecipeIndex_HomePage.ca316aabad8182ce615e.jpg",
-    "static/media/Category_HomeImage.jpg": "/Cook.io/static/media/Category_HomeImage.f4026ea52e3a88d84af4.jpg",
-    "static/media/Responsive_Recipe_Homepage.jpg": "/Cook.io/static/media/Responsive_Recipe_Homepage.4980619ef32aea92cd03.jpg",
-    "static/media/Recipe_Homepage.jpg": "/Cook.io/static/media/Recipe_Homepage.64488c582af59cdfef3e.jpg",
-    "static/media/Responsive_RecipeIndex_HomePage.jpg": "/Cook.io/static/media/Responsive_RecipeIndex_HomePage.62fa1d5694a7ba1cac47.jpg",
-    "static/media/Responsive_Category_HomeImage.jpg": "/Cook.io/static/media/Responsive_Category_HomeImage.ae0bbc54f9f4d6f06ef4.jpg",
-    "static/media/logo-light.svg": "/Cook.io/static/media/logo-light.ba1e010811d5951eafe1e55a43aab864.svg",
-    "index.html": "/Cook.io/index.html",
-    "main.c28f6a2e.css.map": "/Cook.io/static/css/main.c28f6a2e.css.map",
-    "main.9f1a6825.js.map": "/Cook.io/static/js/main.9f1a6825.js.map",
-    "787.13aee4be.chunk.js.map": "/Cook.io/static/js/787.13aee4be.chunk.js.map"
+    "main.css": "/The_Cook.io/static/css/main.ef48ff2c.css",
+    "main.js": "/The_Cook.io/static/js/main.55d5625d.js",
+    "static/js/787.13aee4be.chunk.js": "/The_Cook.io/static/js/787.13aee4be.chunk.js",
+    "static/media/Nationalities_HomePage.jpg": "/The_Cook.io/static/media/Nationalities_HomePage.2bfadea6f838bc433682.jpg",
+    "static/media/RecipeIndex_HomePage.jpg": "/The_Cook.io/static/media/RecipeIndex_HomePage.ca316aabad8182ce615e.jpg",
+    "static/media/Category_HomeImage.jpg": "/The_Cook.io/static/media/Category_HomeImage.f4026ea52e3a88d84af4.jpg",
+    "static/media/Responsive_Recipe_Homepage.jpg": "/The_Cook.io/static/media/Responsive_Recipe_Homepage.4980619ef32aea92cd03.jpg",
+    "static/media/Recipe_Homepage.jpg": "/The_Cook.io/static/media/Recipe_Homepage.64488c582af59cdfef3e.jpg",
+    "static/media/Responsive_RecipeIndex_HomePage.jpg": "/The_Cook.io/static/media/Responsive_RecipeIndex_HomePage.62fa1d5694a7ba1cac47.jpg",
+    "static/media/Responsive_Category_HomeImage.jpg": "/The_Cook.io/static/media/Responsive_Category_HomeImage.ae0bbc54f9f4d6f06ef4.jpg",
+    "static/media/logo-light.svg": "/The_Cook.io/static/media/logo-light.ba1e010811d5951eafe1e55a43aab864.svg",
+    "index.html": "/The_Cook.io/index.html",
+    "main.ef48ff2c.css.map": "/The_Cook.io/static/css/main.ef48ff2c.css.map",
+    "main.55d5625d.js.map": "/The_Cook.io/static/js/main.55d5625d.js.map",
+    "787.13aee4be.chunk.js.map": "/The_Cook.io/static/js/787.13aee4be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c28f6a2e.css",
-    "static/js/main.9f1a6825.js"
+    "static/css/main.ef48ff2c.css",
+    "static/js/main.55d5625d.js"
   ]
 }
