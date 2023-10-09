@@ -56,7 +56,7 @@
         align-items: center;
         justify-content: space-between;
         margin: auto;
-        margin-bottom: 1rem;
+        margin-bottom: 0.5rem;
         padding-top: 0.5rem;
         padding-bottom: 0.3rem;
         width: 768px;
@@ -71,8 +71,8 @@
         display: flex;
         flex-direction: column;
         row-gap: 1.2rem;
-        height: 270px;
-        margin-top: 0.96rem;
+        height: 300px;
+        margin-top: -0.2rem;
         margin-left: 23.5rem;
         padding-top: 0.8rem;
         width: 200px;
@@ -96,7 +96,7 @@
     }
     #Bars {
         display: block;
-        margin-top: 1rem;
+        margin-top: 0.45rem;
         margin-left: -1.5rem;
     }
     .Navigate {
@@ -136,7 +136,7 @@
         flex-direction: column;
         row-gap: 1.2rem;
         height: 270px;
-        margin-top: 0.96rem;
+        margin-top: -0.2rem;
         margin-left: 1.2rem;
         padding-top: 0.8rem;
         width: 200px;
@@ -160,7 +160,7 @@
     }
     #Bars {
         display: block;
-        margin-top: 1rem;
+        margin-top: 0rem;
         margin-left: -1.5rem;
     }
     .Navigate {
@@ -201,7 +201,7 @@
         flex-direction: column;
         row-gap: 1.2rem;
         height: 270px;
-        margin-top: 0.96rem;
+        margin-top: -0.2rem;
         margin-left: -2rem;
         padding-top: 0.8rem;
         width: 200px;
@@ -225,7 +225,7 @@
     }
     #Bars {
         display: block;
-        margin-top: 1rem;
+        margin-top: 0.25rem;
         margin-left: -1.5rem;
     }
     .Navigate {

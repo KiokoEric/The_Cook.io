@@ -53,7 +53,7 @@ const Nationality = () => {
 return (
     <div className='Nationality' > 
         <section>
-            <h1>Where To?  </h1>
+            <h1>Where To ?</h1>
             <form onSubmit={getNationality} >
                 <i id='World' class="fa-solid fa-earth-americas"></i>
                 <select name="" id="Select" value={Search} onChange={handleSearch}>

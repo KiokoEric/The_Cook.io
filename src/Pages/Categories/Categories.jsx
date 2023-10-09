@@ -53,7 +53,7 @@ const Categories = () => {
 return (
     <div className='Category' >
         <section>
-        <h1>Enter a category?  </h1>
+        <h1>Enter a category ?</h1>
             <form onSubmit={getCategory} >
                 <i id='World' class="fa-solid fa-earth-americas"></i>
                 <select name="" id="Select" value={Search} onChange={handleSearch} >

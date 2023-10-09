@@ -108,19 +108,20 @@
         background: url(../../Images/Category_HomeImage.jpg);
         background-repeat: no-repeat;
         background-position: center;
-        border-radius: 8px;
+        border-radius: 3px;
         color: white;
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        height: 350px;
+        height: 300px;
         margin: auto;
         margin-bottom: 2.5rem;
         width: 750px;
     }
     .Category h1 {
-        font-size: 35px;
+        font-size: 40px;
+        margin-bottom: 1rem;
     }
     .Category form {
         width: 600px;
@@ -157,13 +158,13 @@
         background: url(../../Images/Responsive_Category_HomeImage.jpg);
         background-repeat: no-repeat;
         background-position: center;
-        border-radius: 8px;
+        border-radius: 3px;
         color: white;
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        height: 350px;
+        height: 300px;
         margin: auto;
         margin-bottom: 2.5rem;
         width: 400px;
@@ -203,13 +204,13 @@
         background: url(../../Images/Responsive_Category_HomeImage.jpg);
         background-repeat: no-repeat;
         background-position: center;
-        border-radius: 8px;
+        border-radius: 3px;
         color: white;
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        height: 350px;
+        height: 300px;
         margin: auto;
         margin-bottom: 2.5rem;
         width: 370px;

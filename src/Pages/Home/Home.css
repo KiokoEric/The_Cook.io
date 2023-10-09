@@ -124,7 +124,8 @@
     }
     .SearchPage {
         background-image: url(../../Images/Recipe_Homepage.jpg);
-        height: 350px;
+        border-radius: 3px;
+        height: 300px;
         margin-left: 0.5rem;
         width: 750px;
     }
@@ -170,6 +171,7 @@
     }
     .SearchPage {
         background-image: url(../../Images/Responsive_Recipe_Homepage.jpg);
+        border-radius: 3px;
         height: 300px;
         margin-left: 0.5rem;
         width: 400px;
@@ -211,6 +213,7 @@
     }
     .SearchPage {
         background-image: url(../../Images/Responsive_Recipe_Homepage.jpg);
+        border-radius: 3px;
         height: 300px;
         margin: auto;
         width: 370px;
