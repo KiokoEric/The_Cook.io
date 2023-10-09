@@ -30,7 +30,7 @@ return (
                     <Link Link to="Nationality" className='Link Navigate'  >
                         <p>Nationality</p>
                     </Link>
-                    <Link Link to="Favourites" className='Link Navigate' id='Favourites' >
+                    <Link Link to="Favourites" className='Link Navigate' id='Favourites' > 
                         <p>Favourites</p>
                     </Link>
                 </nav>

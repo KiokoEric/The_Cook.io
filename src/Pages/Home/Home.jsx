@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import "../Home/Home.css";
-import { Link  } from 'react-router-dom';
 import Popular from '../../Components/Popular/Popular';
+import { Link  } from 'react-router-dom';
 import { useAppContext } from '../../Components/Context/AppContext';
 
 const Home = () => {

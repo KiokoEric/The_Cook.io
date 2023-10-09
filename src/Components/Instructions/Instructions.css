@@ -263,6 +263,7 @@
         justify-content: center;
         font-family: 'Instrument Serif', serif;
         font-size: 18px;
+        margin-left: 1rem;
         white-space: pre-wrap;
         word-wrap: break-word;
         width: 350px;
