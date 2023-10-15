@@ -17,7 +17,7 @@ const Home = () => {
     }
 
     const {Favourites, AddToFavourites, RemoveFromFavourites} = useAppContext()
-    const [Recipes, setRecipes] = useState([])
+    const [Recipes, setRecipes] = useState(SearchState)
     const [Search, setSearch] = useState("")
     const [SearchError, setSearchError] = useState("")
 
