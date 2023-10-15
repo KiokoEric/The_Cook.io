@@ -70,7 +70,7 @@ return (
         <section className='SearchResults' >
             {
             (!Recipes) ? <h2 className='Failure' >No Results Found</h2> :
-            Recipes.map((Recipe) => {
+            Recipes.map((Recipe)=> {
             return (
                 <div key={Recipe.strMeal}  >
                     <section>
