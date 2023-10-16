@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/The_Cook.io/static/css/main.bfac13a1.css",
-    "main.js": "/The_Cook.io/static/js/main.51331f74.js",
+    "main.js": "/The_Cook.io/static/js/main.62481b35.js",
     "static/js/787.13aee4be.chunk.js": "/The_Cook.io/static/js/787.13aee4be.chunk.js",
     "static/media/Nationalities_HomePage.jpg": "/The_Cook.io/static/media/Nationalities_HomePage.2bfadea6f838bc433682.jpg",
     "static/media/RecipeIndex_HomePage.jpg": "/The_Cook.io/static/media/RecipeIndex_HomePage.ca316aabad8182ce615e.jpg",
@@ -13,11 +13,11 @@
     "static/media/logo-light.svg": "/The_Cook.io/static/media/logo-light.ba1e010811d5951eafe1e55a43aab864.svg",
     "index.html": "/The_Cook.io/index.html",
     "main.bfac13a1.css.map": "/The_Cook.io/static/css/main.bfac13a1.css.map",
-    "main.51331f74.js.map": "/The_Cook.io/static/js/main.51331f74.js.map",
+    "main.62481b35.js.map": "/The_Cook.io/static/js/main.62481b35.js.map",
     "787.13aee4be.chunk.js.map": "/The_Cook.io/static/js/787.13aee4be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bfac13a1.css",
-    "static/js/main.51331f74.js"
+    "static/js/main.62481b35.js"
   ]
 }
