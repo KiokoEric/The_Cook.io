@@ -9,7 +9,7 @@ const Home = () => {
     const SearchState = () => {
         let Value = localStorage.getItem("Values");
 
-        if (Value === "") {
+        if (Value !== "") {
             return JSON.parse(localStorage.getItem("Values"))
         } else {
             return [];
