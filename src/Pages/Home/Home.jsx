@@ -9,15 +9,15 @@ const Home = () => {
     const SearchState = () => {
         let Value = localStorage.getItem("Values");
 
-        if (Value !== "") {
-            return JSON.parse(localStorage.getItem("Values"))
-        } else {
+        if (Value === "") {
             return [];
+        } else {
+            return JSON.parse(localStorage.getItem("Values"))
         }
     }
 
     const {Favourites, AddToFavourites, RemoveFromFavourites} = useAppContext()
-    const [Recipes, setRecipes] = useState([])
+    const [Recipes, setRecipes] = useState(SearchState())
     const [Search, setSearch] = useState("")
     const [SearchError, setSearchError] = useState("")
 
