@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/The_Cook.io/static/css/main.cba0d3ba.css",
+    "main.css": "/The_Cook.io/static/css/main.d18648ea.css",
     "main.js": "/The_Cook.io/static/js/main.62481b35.js",
     "static/js/787.13aee4be.chunk.js": "/The_Cook.io/static/js/787.13aee4be.chunk.js",
     "static/media/Nationalities_HomePage.jpg": "/The_Cook.io/static/media/Nationalities_HomePage.2bfadea6f838bc433682.jpg",
@@ -12,12 +12,12 @@
     "static/media/Responsive_Category_HomeImage.jpg": "/The_Cook.io/static/media/Responsive_Category_HomeImage.ae0bbc54f9f4d6f06ef4.jpg",
     "static/media/logo-light.svg": "/The_Cook.io/static/media/logo-light.ba1e010811d5951eafe1e55a43aab864.svg",
     "index.html": "/The_Cook.io/index.html",
-    "main.cba0d3ba.css.map": "/The_Cook.io/static/css/main.cba0d3ba.css.map",
+    "main.d18648ea.css.map": "/The_Cook.io/static/css/main.d18648ea.css.map",
     "main.62481b35.js.map": "/The_Cook.io/static/js/main.62481b35.js.map",
     "787.13aee4be.chunk.js.map": "/The_Cook.io/static/js/787.13aee4be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cba0d3ba.css",
+    "static/css/main.d18648ea.css",
     "static/js/main.62481b35.js"
   ]
 }
