@@ -207,7 +207,7 @@
         flex-direction: column;
         align-items: center;
         position: absolute;
-        top: 3.5rem;
+        top: 3.45rem;
         left: 7rem;
         transition: all 0.5s linear;
         transform: translateX(60%);
