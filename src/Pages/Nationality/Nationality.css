@@ -2,7 +2,6 @@
     background: url(../../Images/Nationalities_HomePage.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    border-radius: 2px;
     color: black;
     display: flex;
     flex-direction: column;
@@ -108,10 +107,9 @@
 @media (max-width:768px) {
     .Nationality section:first-child {
         background: url(../../Images/Nationalities_HomePage.jpg);
-        border-radius: 3px;
         color: white;
         height: 300px;
-        width: 750px;
+        width: 768px;
     }
     .Nationality h1 {
         font-size: 40px;
@@ -155,9 +153,8 @@
     .Nationality section:first-child {
         color: white;
         background: url(../../Images/Nationalities_HomePage.jpg);
-        border-radius: 3px;
         height: 300px;
-        width: 400px;
+        width: 428px;
     }
     .Nationality h1 {
         font-size: 35px;
@@ -197,9 +194,8 @@
     .Nationality section:first-child {
         color: white;
         background: url(../../Images/Nationalities_HomePage.jpg);
-        border-radius: 3px;
         height: 300px;
-        width: 370px;
+        width: 375px;
     }
     .Nationality h1 {
         font-size: 35px;

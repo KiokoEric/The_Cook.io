@@ -2,7 +2,6 @@
     background: url(../../Images/RecipeIndex_HomePage.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    border-radius: 2px;
     filter: drop-shadow(25px);
     color: white;
     display: flex;
@@ -91,11 +90,10 @@
     .RecipeIndex section:first-child {
         background: url(../../Images/RecipeIndex_HomePage.jpg);
         background-position: center;
-        border-radius: 3px;
         height: 300px;
         margin: auto;
         margin-bottom: 1.5rem;
-        width: 750px; 
+        width: 768px; 
     }
     .RecipeIndex section:first-child h1 {
         font-size: 40px;
@@ -138,12 +136,11 @@
     .RecipeIndex section:first-child {
         background: url(../../Images/Responsive_RecipeIndex_HomePage.jpg);
         background-position: center;
-        border-radius: 3px;
         filter: drop-shadow(25px);
         height: 300px;
         margin: auto;
         margin-bottom: 1.5rem;
-        width: 400px; 
+        width: 428px; 
     }
     .RecipeIndex section:first-child h1 {
         font-size: 30px;
@@ -185,11 +182,10 @@
     .RecipeIndex section:first-child {
         background: url(../../Images/Responsive_RecipeIndex_HomePage.jpg);
         background-position: center;
-        border-radius: 3px;
         height: 300px;
         margin: auto;
         margin-bottom: 1.5rem;
-        width: 370px; 
+        width: 375px; 
     }
     .RecipeIndex section:first-child h1 {
         font-size: 30px;

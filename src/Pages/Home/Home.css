@@ -6,7 +6,6 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    border-radius: 2px;
     color: white;
     display: flex;
     flex-direction: column;
@@ -124,10 +123,8 @@
     }
     .SearchPage {
         background-image: url(../../Images/Recipe_Homepage.jpg);
-        border-radius: 3px;
         height: 300px;
-        margin-left: 0.5rem;
-        width: 750px;
+        width: 768px;
     }
     .Home h1 {
         font-size: 35px;
@@ -171,10 +168,8 @@
     }
     .SearchPage {
         background-image: url(../../Images/Responsive_Recipe_Homepage.jpg);
-        border-radius: 3px;
         height: 300px;
-        margin-left: 0.5rem;
-        width: 400px;
+        width: 428px;
     }
     .Home h1 {
         font-size: 35px;
@@ -213,10 +208,9 @@
     }
     .SearchPage {
         background-image: url(../../Images/Responsive_Recipe_Homepage.jpg);
-        border-radius: 3px;
         height: 300px;
         margin: auto;
-        width: 370px;
+        width: 375px;
     }
     .Home h1 {
         font-size: 35px;
