@@ -22,7 +22,7 @@ The website application was built using React JS and MealDB API.
 
   <br>
   
-  <p align="center" > The Home section provides its users with a search functionality, allowing its users to easily find recipes based on their search interests. </p>
+  <p align="center" > The Home section provides its users with search functionality, allowing its users to easily find recipes based on their search interests. </p>
 </div>
 
 <br>
@@ -37,7 +37,7 @@ The website application was built using React JS and MealDB API.
 
   <br>
   
-  <p align="center">The Explore section allows its users to immerse themselves in a treasure trove of recipes through use of the letters of the alphabet. Upon double clicking on any of the letters of the alphabet provided, the user is given a treasure trove of recipes that begin the alphabet letter selected.  </p>
+  <p align="center">The Explore section allows its users to immerse themselves in a treasure trove of recipes through the use of the letters of the alphabet. Upon double-clicking on any of the letters of the alphabet provided, the user is given a treasure trove of recipes that begin with the alphabet letter selected.  </p>
 </div>
 
 <div>
@@ -76,7 +76,7 @@ The website application was built using React JS and MealDB API.
   </div>
 
   <br>
-  <p align="center">On clicking on any of the recipes displayed in the application, the user will be directed towards a recipe detail section. In this section the recipe selected is presented together with the necessary ingredients, clear step-by-step directions as well as a high-quality video to guide you through the cooking process</p>
+  <p align="center">On clicking on any of the recipes displayed in the application, the user will be directed toward a recipe detail section. In this section the recipe selected is presented together with the necessary ingredients, clear step-by-step directions as well as a high-quality video to guide you through the cooking process</p>
   
 </div>
 
