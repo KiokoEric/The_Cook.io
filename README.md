@@ -1,70 +1,99 @@
-# Getting Started with Create React App
+<h1 align="center"> Welcome to COOK.IO </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center" >
+Cook.io is a fully responsive recipe website that caters to food enthusiasts of all levels. From seasoned chefs to beginners in the kitchen, the platform offers a diverse range of delectable recipes that span cuisines, dietary preferences, and different continents.
 
-## Available Scripts
+  <br><br>
+  
+The website application was built using React JS and MealDB API.
 
-In the project directory, you can run:
+[Live Demo](https://KiokoEric.github.io/The_Cook.io)
+</div>
 
-### `npm start`
+<h2 align="center"> Website Pages </h2>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<div>
+  <h3 align="center" >Home Section</h3>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  <div align="center" >
+    <img  src="https://i.postimg.cc/nLDwY5c2/The-Cook-io.jpg"> 
 
-### `npm test`
+  </div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <br>
+  
+  <p align="center" > The Home section provides its users with a search functionality, allowing its users to easily find recipes based on their search interests. </p>
+</div>
 
-### `npm run build`
+<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<div>
+  <h3 align="center" >Explore Section</h3>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  <div align="center" >
+    <img  src="https://i.postimg.cc/XvbJcrwz/Explore-Section.jpg"> 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  </div>
 
-### `npm run eject`
+  <br>
+  
+  <p align="center">The Explore section allows its users to immerse themselves in a treasure trove of recipes through use of the letters of the alphabet. Upon double clicking on any of the letters of the alphabet provided, the user is given a treasure trove of recipes that begin the alphabet letter selected.  </p>
+</div>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<div>
+  <h3 align="center" >Categories Section</h3>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  <div align="center" >
+    <img  src="https://i.postimg.cc/xCxNRLyP/Category-Section.jpg"> 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  </div>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+  <br>
+  
+  <p align="center">The Categories section allows its users to explore different categories of recipes: breakfast, Dessert, Vegetarian e.t.c </p>
+</div>
 
-## Learn More
+<div>
+  <h3 align="center" >Nationality Section</h3>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  <div align="center" >
+    <img  src="https://i.postimg.cc/nzHw7f0D/Nationality-Section.jpg"> 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  </div>
 
-### Code Splitting
+  <br>
+  <p align="center">The Nationality section allows its users to embark on a global gastronomic adventure with our curated collection of recipes from around the world. Experience the authentic flavors of Italian pasta, spicy Thai curries, comforting American classics, and much more. </p>
+  
+</div>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<div>
+  
+<h3 align="center" >Recipe Details</h3>
 
-### Analyzing the Bundle Size
+  <div align="center" >
+    <img  src="https://i.postimg.cc/sXbzJ28L/Recipe-Details.jpg"> 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+  </div>
 
-### Making a Progressive Web App
+  <br>
+  <p align="center">On clicking on any of the recipes displayed in the application, the user will be directed towards a recipe detail section. In this section the recipe selected is presented together with the necessary ingredients, clear step-by-step directions as well as a high-quality video to guide you through the cooking process</p>
+  
+</div>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<div>
+  
+<h3 align="center" >Favourites Section</h3>
 
-### Advanced Configuration
+  <div align="center" >
+    <img  src="https://i.postimg.cc/qqpPwCwj/Favourites-Section.jpg"> 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+  </div>
 
-### Deployment
+  <br>
+  <p align="center">The favourites section is a section that allows users of cook.io to add a bookmark to a specific recipe allowing them to quickly access their bookmarked content without needing to remember on the favourites section page. </p>
+  
+</div>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
